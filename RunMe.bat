@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "DigiKillerV3.ps1"
